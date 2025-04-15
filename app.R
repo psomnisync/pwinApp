@@ -1,5 +1,6 @@
 # --- 1. Libraries ---
 
+library(dplyr)
 library(shiny)
 library(httr)
 library(jsonlite)
